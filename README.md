@@ -1,5 +1,9 @@
 # Wealth-Effect-on-Labor-Supply-
-In this project I use Lagrangians to find labor supply. I use for loops, various functions, and various programming techniques to get a final result
+In this project I use Lagrangians to find labor supply. 
+
+This is a problem of constrained optimization. 
+
+I use for loops, various functions, and various programming techniques to get a final result.
 
 
 PROJECT SUMMARY: 
